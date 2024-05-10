@@ -1,11 +1,12 @@
 package swatch
 
 import (
+	"image/color"
+
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/canvas"
 	"fyne.io/fyne/v2/widget"
 	"github.com/badonix/pixelapp/apptype"
-	"image/color"
 )
 
 type Swatch struct {
