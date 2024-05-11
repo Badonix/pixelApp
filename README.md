@@ -17,10 +17,10 @@ simple pixel drawing app using golang an fyne
 git clone https://github.com/Badonix/pixelApp
 ```
 
-2\. Next step requires you to run go mod tidy in order to install all required packages.
+2\. Next step requires you to run `go mod tidy` in order to install all required packages.
 
 ```sh
-npm install
+go mod tidy
 ```
 
 3\. Run the app
